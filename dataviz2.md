@@ -15,3 +15,6 @@ Following is the debt to GDP ratio for all reporting countries in 2010 with the 
 
 ## Visualization 3.
 
+Following visualization shows the Debt to GDP ratio of reporting countries from 1995 to 2021. Each box shows the trend for a particular country. Not each country started resporting from 1995, some lines are shorter based on when the country started resporting their debt to GDP ratio.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12585500"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
