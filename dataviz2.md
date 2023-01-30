@@ -25,7 +25,8 @@ The following visualization shows the debt to GDP ratio of reporting countries o
 
 In the previous visualizations, we saw dept to GDP ratios of countries in relation to each other and in relation with time. However, I wanted to create a visualization where the story isn't about a partiuclar country's debt to GDP ratio but the fact that countries have become more lenient about their debt to GDP ratio. For example, in the US, the debt ceiling was raised 78 times from 1962 till date, according to the US Department of Treasury. 
 
-To tell this story, I tried flipping axes on the bar graph with time on x axis and value on y axis but that wasn't working out. I tried some other graphs in the bar graph and line graph category in Flourish. However, scrolling down, I landed on a bubble diagram, which in flourish was called the Hans Rosling chart and this is the visualization that I came up with. (play the video)
+To tell this story, I tried flipping axes on the bar graph with time on x axis and value on y axis but that wasn't working out. I tried some other graphs in the bar graph and line graph category in Flourish. However, scrolling down, I landed on a bubble diagram, which in flourish was called the Hans Rosling chart and this is the visualization that I came up with. 
+(play the video to view the visualization and pull back the animation slide before replaying it)
 
 ### Globally, Debt to GDP ratio rises over years
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12586780"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
