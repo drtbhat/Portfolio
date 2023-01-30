@@ -12,6 +12,6 @@ After graduation, I hope to use these skills for policy research, communication 
 
 [Assignment 1](/dataviz2.md)
 
-[Class exercise](classex1.md)
+[Class exercise 1/30](classex1.md)
 
 # Final Project
