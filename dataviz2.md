@@ -19,5 +19,15 @@ Following visualization shows the Debt to GDP ratio of reporting countries from 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12585500"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Visualization 4.
+
+The following visualization shows debt to GDP ratio of reporting countries over the years. 
+
+### Globally, Debt to GDP ratio rises over years
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12586780"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+In this bubble scatter plot, the x axis shows the different countries, the y axis shows the debt to GDP ratio and each slice in the animation shows time period. Each bubble is representing a country and the size of the bubble, the colour of the bubble are indicative of the debt to GDP ratios of the countries. If you were to pause the animation, hover your cursor over any bubble, information about the country name and the debt to GDP ratio of the country in that particular year will come up. However, these details are not required to understand the punchline of the visualization. The deep orange on the bubbles with increasing values of debt to GDP ratio, gives a sense of danger. This effect is designed to convey the negative connotation with high debt to GDP ratios which are a sign of a possible recession looming around the corner. 
+
+
 
 [Back to the main page](drtbhat/Portfolio)
