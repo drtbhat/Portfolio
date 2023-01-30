@@ -11,6 +11,7 @@ Whether it be writing research papers, blogs or news articles, I have experience
 After graduation, I hope to use these skills for policy research, communication and advocacy. 
 
 [Assignment 1](/dataviz2.md)
+
 [Class exercise](classex1.md)
 
 # Final Project
