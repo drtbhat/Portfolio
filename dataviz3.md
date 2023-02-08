@@ -36,7 +36,7 @@ I conducted user research with two of my batchmates, one male and one female fro
 1. I have mentioned nothing about COVID in the title, so both the respondents were able to guage that the graph shows hospitalizations but missed that this was amidst the latest COVID wave.
 2. Both the respondents were able to correctly and quickly tell the main idea of the story, that is hospitalization is increasing most in Alaska out of the six states shows. 
 3. Both the respondents were international students and found the state abbreviations confusing at first. MSPPM male respondent also found hospitalization percentage as a confusing measure. This is when I also realized that I had mentioned nothing about the 14-day increase in the graph. When I explained to him the interpretaion of hospitalization percentage, I realized that the measure of percenatge had a flaw, in the sense that if the intial hospitalizations was a small number, even a minor rise in hospitalization would show a huge percentage increase. 
-4. The MSPPM female felt that the intended audience for this graph was anyone who lived in the states shown in the graph. MSPPM male respondent felt that the intended audeince was US citizens. 
+4. The MSPPM female felt that the intended audience for this graph was anyone who lived in the states shown in the graph. MSPPM male respondent felt that the intended audience was US citizens. 
 
 ### Redesign 3
 
