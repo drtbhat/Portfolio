@@ -42,7 +42,7 @@ Following are a few data sources that I plan to use for this project
 
 I plan to use Shorthand for this project. I loved the past projects in Shorthand and I hope to create a beautiful deck like the ones I saw. 
 
-For the later part of the story, where I mention about how data localization will affect individuals in terms of research and consumer prices, I will have to use text and existing data in a creative way to show predictions because I could not find a dataset on this. 
+For the later part of the story, where I mention about how data localization will affect individuals in terms of research and consumer prices, I will have to use text and existing data in a creative way to show predictions because I could not find a dataset on this.
 
 
 [Back to the main page](README.md)
