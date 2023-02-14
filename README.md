@@ -17,3 +17,4 @@ After graduation, I hope to use these skills for policy research, communication 
 [Assignment 2](/dataviz3.md)
 
 # Final Project
+[Part 1](FPproposal.md)
