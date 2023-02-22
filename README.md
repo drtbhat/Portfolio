@@ -18,4 +18,5 @@ After graduation, I hope to use these skills for policy research, communication 
 
 # Final Project 
 [Part 1](FPproposal.md)
-[Part 2] (part2.md)
+
+[Part 2](part2.md)
