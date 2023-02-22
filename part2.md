@@ -3,6 +3,8 @@
 ### Wireframes and Storyboard
 After the first part of my final project, I made a lot of changes to the narrative of the story. I created the data visualizations for my story in Tableau and Flourish. I added certain basic content pieces and embedded the data visualizations in Shorthand before I conducted my user research. Please review the my draft presentation in Shorthand [here](https://carnegiemellon.shorthandstories.com/the-data-localization-story/index.html)
 
+I am yet to add the final written content and add captions to certain pictures. 
+
 ### User Research
 1. My target audience for this presentation is any global citizen, who is a non-expert but is curious about technology policy.
 2. I recruited interviewees from Heinz who did not know much about data localization. 
@@ -54,6 +56,10 @@ e)The narration had a good flow. It seemed fine to me.
 f)I would suggest to tell more in the last section, about the implications of data restriction laws and also add a conclusion so that it does not look incomplete.
 
 g)The visualizations were simple and effective. 
+
+### Changes that I plan on
+Firstly, I would like to add more about the negative consequences of data localization. There are several, both for individuals and for the nations. However, I was not able to find data sets, for me to be able to visualize these points. I might add a diagram or visualization listing the different effects of data localization. I could also add a section about how there are other ways of ensuring data privacy and national security, even with data free flows. However, I don't want to make the presentation very text heavy. So I will see what I can do. Also, I have tried to not hammer down a particular narrative about whether data localization is completely good or completely bad, I can probably take a stronger stance. That might make the presentation more persuasive. I will take some feedback on that and then decide. 
+
 
 
 [Find data sets for visualizations here](Data)
