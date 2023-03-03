@@ -1,12 +1,12 @@
 | [home page](README.md) | [visualizing debt](dataviz2.md) | [critique by design](dataviz3.md) | [final project I](FPproposal.md) | [final project II](part2.md) | [final project III](FP_part3.md) |
 
-# Final Project Part 3
+## Final Project Part 3
 
-## The Final Data Story
+### The Final Data Story
 
 > Follow [this link](https://carnegiemellon.shorthandstories.com/the-data-localization-story/index.html) for my presentation slides in Shorthand.
 
-### Changes made since part 2
+#### Changes made since part 2
 
 > My storyline remained the same since part 2, however, I added more text to make the presentation self-explanatory. As was communicated to me via user research, I added the costs of data localization in the very first part of the presentation to draw the audeince in and develop a sense of urgency. I also added blurbs throughout the presentation to have certain text pop out. Hopefully, I have made the text part simple for all audiences, making it more inclusive. Keeping my target audience in mind, I was able to add the 
 
