@@ -6,11 +6,11 @@
 
 ### Overview
 
-As countries are becoming more connected and protectionist at the same time, tensions among countries grow and the world economy suffers. The recent most global common that has taken the hammer is the internet and free data flow. Countries such as Vietnam, Indonesia, Brunei, Iran, China, Brazil, India, Australia, Korea, Nigeria and, most recently, Russia, among other countries are going through rapid developments towards data localisation laws, or laws that dictate where data of the country’s citizens should be stored (inside the country’s territory or outside) and/or processed before it is saved at an international location. 
+> As countries are becoming more connected and protectionist at the same time, tensions among countries grow and the world economy suffers. The recent most global common that has taken the hammer is the internet and free data flow. Countries such as Vietnam, Indonesia, Brunei, Iran, China, Brazil, India, Australia, Korea, Nigeria and, most recently, Russia, among other countries are going through rapid developments towards data localisation laws, or laws that dictate where data of the country’s citizens should be stored (inside the country’s territory or outside) and/or processed before it is saved at an international location. 
 
-I choose to tell this story of data localization through the project. 
+>I choose to tell this story of data localization through the project. 
 
-I will start with telling about the use of internet. Internet helps in democratisation of information, real time collaboration between individuals and companies, and also plays a huge role in economic growth via international trade. Then I will explain data localization is and how it fractures the internet. (I have imagined taking a telecommunications world map showing internet exchanges and cropping it to show that the mesh of internet flows has been broken.) Then, I want to tell about the different countries which already have data localization laws. I will then go to talk about the different negative impacts of data localization including reduced international trade, higher consumer prices, slow-down in research, etc. The call to action can be to learn more about the topic and share the information to make this a politically important subject. (Essentially, the call to action will be an article/memo).
+>I will start with telling about the use of internet. Internet helps in democratisation of information, real time collaboration between individuals and companies, and also plays a huge role in economic growth via international trade. Then I will explain data localization is and how it fractures the internet. (I have imagined taking a telecommunications world map showing internet exchanges and cropping it to show that the mesh of internet flows has been broken.) Then, I want to tell about the different countries which already have data localization laws. I will then go to talk about the different negative impacts of data localization including reduced international trade, higher consumer prices, slow-down in research, etc. The call to action can be to learn more about the topic and share the information to make this a politically important subject. (Essentially, the call to action will be an article/memo).
 
 ### Some Initial Sketches
 
@@ -42,9 +42,9 @@ Following are a few data sources that I plan to use for this project
 
 ### Method
 
-I plan to use Shorthand for this project. I loved the past projects in Shorthand and I hope to create a beautiful deck like the ones I saw. 
+>I plan to use Shorthand for this project. I loved the past projects in Shorthand and I hope to create a beautiful deck like the ones I saw. 
 
-For the later part of the story, where I mention about how data localization will affect individuals in terms of research and consumer prices, I will have to use text and existing data in a creative way to show predictions because I could not find a dataset on this.
+>For the later part of the story, where I mention about how data localization will affect individuals in terms of research and consumer prices, I will have to use text and existing data in a creative way to show predictions because I could not find a dataset on this.
 
 
 [Back to the main page](README.md)
