@@ -1,4 +1,6 @@
-## Critique by Design
+| [home page](README.md) | [visualizing debt](dataviz2.md) | [critique by design](dataviz3.md) | [final project I](FPproposal.md) | [final project II](part2.md) | [final project III](FP_part3.md) |
+
+# Critique by Design
 
 >In this assignment I have re-designed the following visualization:
 
