@@ -1,4 +1,4 @@
-## Assignment 2
+## Critique by Design
 
 In this assignment I have re-designed the following visualization:
 
