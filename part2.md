@@ -1,3 +1,5 @@
+| [home page](README.md) | [visualizing debt](dataviz2.md) | [critique by design](dataviz3.md) | [final project I](FPproposal.md) | [final project II](part2.md) | [final project III](FP_part3.md) |
+
 ## Final Project Part 2
 
 ### Wireframes and Storyboard
